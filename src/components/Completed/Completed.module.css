@@ -1,0 +1,16 @@
+.wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 50px;
+}
+
+.buttonCompleted {
+  width: 50%;
+}
+
+.text {
+  color: gray;
+  font-weight: bold;
+}
